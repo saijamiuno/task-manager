@@ -42,7 +42,7 @@ Make sure you have the following installed:
 2. **Navigate to the project directory:**
 
    ```bash
-        cd task-management-app 
+    cd task-management-app 
    ```
 
     
@@ -50,13 +50,13 @@ Make sure you have the following installed:
 
 3. **Install the dependencies:**
 
-   ```bash
-        npm install
-       ```
+    ```bash
+    npm install
+    ```
 
 4. **Run the development server:**
    
-   ```bash
-npm run dev
-       ```
+    ```bash
+    npm run dev
+    ```
 
