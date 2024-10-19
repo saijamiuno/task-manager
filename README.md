@@ -1,6 +1,6 @@
 # Task Management App
 
-A simple Task Management application built with Next.js 
+A simple Task Management application built with Next.js
 
 ## Features
 
@@ -11,17 +11,16 @@ A simple Task Management application built with Next.js
 - Sort tasks by priority (High, Medium, Low).
 
 ## Sorting Tasks by Priority
+
 A Object of priority levels to numeric values is created
 
 const customOrder = {
-  High: 1,
-  Medium: 2,
-  Low: 3,
+High: 1,
+Medium: 2,
+Low: 3,
 };
 
-
 Array.sort() method is used to for sorting based on the numeric values
-
 
 ## Installation
 
@@ -39,3 +38,25 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/saijamii/task-manager.git
    ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+        cd task-management-app 
+   ```
+
+    
+
+
+3. **Install the dependencies:**
+
+   ```bash
+        npm install
+       ```
+
+4. **Run the development server:**
+   
+   ```bash
+npm run dev
+       ```
+
